@@ -4,8 +4,8 @@ bio:                'Tifa Zabat'
 description:        "Tifa is your neighborhood adorable husky girl."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/Tifa_Kemono_Transparent.png'
+background:         'assets/img/jaanus-jagomagi-tA5Ipxl-V4s-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://tifasnow.github.io
