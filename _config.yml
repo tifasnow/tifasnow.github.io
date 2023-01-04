@@ -8,8 +8,7 @@ logo:               'assets/img/Tifa_Kemono_Transparent.png'
 background:         'assets/img/jaanus-jagomagi-tA5Ipxl-V4s-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://tifasnow.github.io
-
+url:                https://tifapup.com
 # Jekyll
 permalink:          /:title/
 markdown:           GFM
