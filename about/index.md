@@ -12,6 +12,6 @@ comments: false
 
 She is an Operation Support Director for a small technology team. In her spare time she can often be found playing with her Switch or Board Games, working on Personal Projects, or Relaxing with close-ones.
 
-![Tifa Manual](https://d.furaffinity.net/art/tifaz/1669665701/1669665701.tifaz_tifa.png)
+![Tifa Manual](https://tifaz.uk/static/media/tifa-instructions.8b480d3cc2a09411c11b.png)
 
 <a rel="me" href="https://eegle.cloud/@tifa">Follw Tifa on Mastodon</a>
