@@ -11,12 +11,17 @@ locale:             en_US
 url:                https://tifapup.com
 # Jekyll
 permalink:          /:title/
-markdown:           GFM
+markdown:           kramdown
+kramdown:
+  input: GFM
 highlighter:        rouge
 mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
 
 # Social
 # if you don't have any of social below, comment the line.
