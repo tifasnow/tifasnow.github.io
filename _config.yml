@@ -23,6 +23,10 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 
+
+collections:
+  projects:
+    output: true
 # Social
 # if you don't have any of social below, comment the line.
 #google:
